@@ -1,0 +1,11 @@
+c:\users\sadel\documents\visual studio 2015\Projects\SistemasDePrestamos\SistemasDePrestamos\bin\Debug\SistemasDePrestamos.exe.config
+c:\users\sadel\documents\visual studio 2015\Projects\SistemasDePrestamos\SistemasDePrestamos\bin\Debug\SistemasDePrestamos.exe
+c:\users\sadel\documents\visual studio 2015\Projects\SistemasDePrestamos\SistemasDePrestamos\bin\Debug\SistemasDePrestamos.pdb
+c:\users\sadel\documents\visual studio 2015\Projects\SistemasDePrestamos\SistemasDePrestamos\obj\Debug\SistemasDePrestamos.csprojResolveAssemblyReference.cache
+c:\users\sadel\documents\visual studio 2015\Projects\SistemasDePrestamos\SistemasDePrestamos\obj\Debug\SistemasDePrestamos.DatosExtras.resources
+c:\users\sadel\documents\visual studio 2015\Projects\SistemasDePrestamos\SistemasDePrestamos\obj\Debug\SistemasDePrestamos.registro.resources
+c:\users\sadel\documents\visual studio 2015\Projects\SistemasDePrestamos\SistemasDePrestamos\obj\Debug\SistemasDePrestamos.Properties.Resources.resources
+c:\users\sadel\documents\visual studio 2015\Projects\SistemasDePrestamos\SistemasDePrestamos\obj\Debug\SistemasDePrestamos.csproj.GenerateResource.Cache
+c:\users\sadel\documents\visual studio 2015\Projects\SistemasDePrestamos\SistemasDePrestamos\obj\Debug\SistemasDePrestamos.exe
+c:\users\sadel\documents\visual studio 2015\Projects\SistemasDePrestamos\SistemasDePrestamos\obj\Debug\SistemasDePrestamos.pdb
+C:\Users\sadel\documents\visual studio 2015\Projects\SistemasDePrestamos\SistemasDePrestamos\obj\Debug\SistemasDePrestamos.btncalcular.resources
